@@ -1,4 +1,4 @@
-# Materi 1
+# (SPL)Sistem Persaman Linier
 
 ## 1.(SPL)Sistem Persaman Linier
 $$\begin{cases} 
